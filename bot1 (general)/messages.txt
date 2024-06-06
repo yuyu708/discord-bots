@@ -1,5 +1,0 @@
-
- 2024-06-01 11:35:52.517239    [general], idk_a_name_yay: 'hello 
- Response from bot: ('Hello there', None)
- 2024-06-01 11:36:14.063955    [general], idk_a_name_yay: 'how are you 
- Response from bot: ("I'm good how are you?", None)
