@@ -1,0 +1,13 @@
+Here are some stuff I can do
+
+1. Say Hello: use '$hello' 
+
+2. Help: use '$help'
+
+3. join voice channel: '$join'
+    requirement: You **must** be in a voice channel
+
+4. leave a voice channel: '$leave'
+    requirement: The bot **must** be in a voice channel
+
+5. 

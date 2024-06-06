@@ -1,0 +1,1 @@
+song_paths.text file has directories that can be replaced since the .wav files are too big
